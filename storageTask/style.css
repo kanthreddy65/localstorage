@@ -1,0 +1,40 @@
+.form-heading {
+    font-family: "Roboto";
+    font-size: 36px;
+    padding-top: 10px;
+    
+  }
+  
+  .error-message {
+    color: #dc3545;
+    font-family: "Roboto";
+    font-size: 14px;
+  }
+  
+  .gender-field-heading {
+    color: #212529;
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  .main-container{
+    background-color: antiquewhite;
+    /* align-items: flex-start; */
+    /* justify-content: start; */
+    /* width: 30vw; */
+    border-radius: 30px;
+    margin: 100px;
+    padding-bottom: 2px;
+    transform: translate(-14vw,10vh);
+  }
+.table-box{
+    transform: translate(2vw, -54vh);
+     padding: 10px;
+     border-radius: 10px;
+     width: 100px;
+}
+
+.input{
+   
+}
+
+
