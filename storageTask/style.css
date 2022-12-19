@@ -27,10 +27,10 @@
     transform: translate(-14vw,10vh);
   }
 .table-box{
-    transform: translate(2vw, -54vh);
+    /* transform: translate(5vw, -54vh); */
      padding: 10px;
      border-radius: 10px;
-     width: 100px;
+     width: auto;
 }
 
 .input{
